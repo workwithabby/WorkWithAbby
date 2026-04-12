@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Abigail Dela Cruz, a Frontend enthusiast who loves building responsive and interactive web experiences. To level up my projects, I am currently expanding my horizons into Backend Development, leveraging AI-augmented workflows to accelerate my learning and bridge the gap between design and complex logic.
+Hello! I'm Abigail Dela Cruz, a technology enthusiast whose passionate about emerging tech and innovation. To level up my projects, I am currently expanding my horizons into Full Stack Development, leveraging AI-augmented workflows to accelerate my learning and bridge the gap between design and complex logic.
 
 - 👩🏻‍💻 Aspiring UI/UX Designer
 - 🏫 2nd Year BSIT | Technological Institute of the Philippines — Quezon City
