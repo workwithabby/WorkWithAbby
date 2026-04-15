@@ -36,7 +36,14 @@ Hello! I'm Abigail Dela Cruz, a technology enthusiast whose passionate about eme
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://streak-stats.demolab.com?user=workwithabby&theme=dracula&hide_border=true)
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=workwithabby&theme=dracula)
+</p>
+
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=workwithabby&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=workwithabby&theme=dracula&utcOffset=8)
+</p>
 
 ---
 
