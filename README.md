@@ -36,7 +36,7 @@ Hello! I'm Abigail Dela Cruz, a technology enthusiast whose passionate about eme
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=workwithabby)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
