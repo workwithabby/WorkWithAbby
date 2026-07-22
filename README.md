@@ -1,11 +1,7 @@
 # 💫 About Me:
-Hello! I'm Abigail Dela Cruz, a technology enthusiast whose passionate about emerging tech and innovation. To level up my projects, I am currently expanding my horizons into Full Stack Development, leveraging AI-augmented workflows to accelerate my learning and bridge the gap between design and complex logic.
+Hello! I'm Abigail Dela Cruz, a technology enthusiast focused on modern innovation. I am currently mastering Full Stack Development, leveraging AI tools to work faster and bridge the gap between user design and software logic.
 
-- 👩🏻‍💻 Aspiring UI/UX Designer
 - 🏫 3rd Year BSIT | Technological Institute of the Philippines — Quezon City
-- 🔭 **Currently working on:** Bridging my UI designs with functional backends.
-- 🤖 **Learning Philosophy:** Using AI to explore deeper architectural concepts while I focus on the creative user experience.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abigail.890)
