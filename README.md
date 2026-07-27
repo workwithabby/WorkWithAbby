@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Abigail Dela Cruz, a technology enthusiast focused on modern innovation. I am currently mastering Full Stack Development, leveraging AI tools to work faster and bridge the gap between user design and software logic.
+Hello! I’m Abigail Dela Cruz, and I enjoy learning about technology and new innovations. I’m currently learning Full Stack Development and using AI tools to work more efficiently while connecting design with software development.
 
 - 🏫 3rd Year BSIT | Technological Institute of the Philippines — Quezon City
 
