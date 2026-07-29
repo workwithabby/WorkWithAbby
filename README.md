@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Abigail Dela Cruz, and I enjoy learning about technology and new innovations. I’m currently learning Full Stack Development and using AI tools to work more efficiently while connecting design with software development.
+Hello! I'm Abigail Dela Cruz, and I'm passionate in learning about technology and emerging innovations. I'm currently studying Full Stack Development and leveraging AI tools to work more efficiently, enhance my productivity, and adapt to the growing role of AI in the tech industry.
 
 - 🏫 3rd Year BSIT | Technological Institute of the Philippines — Quezon City
 
