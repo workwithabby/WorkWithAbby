@@ -1,14 +1,14 @@
-# 💫 About Me:
+# About Me:
 Hello! I'm Abigail Dela Cruz, and I'm passionate in learning about technology and emerging innovations. I'm currently studying Full Stack Development and leveraging AI tools to work more efficiently, enhance my productivity, and adapt to the growing role of AI in the tech industry.
 
 - 🏫 3rd Year BSIT | Technological Institute of the Philippines — Quezon City
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abigail.890)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avyail)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abigail.bayod@icloud.com) 
 
-## 💻 Tech Stack:
+## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
