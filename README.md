@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abigail Dela Cruz
+# 𑣲⋆ Hi, I'm Abigail Dela Cruz
 
 **Full Stack Development Student · Tech and Innovation Enthusiast**
 
@@ -15,13 +15,13 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 𝜗ৎ About Me
 
 Hello! I'm passionate about learning technology and new innovations. I'm currently studying **Full Stack Development**, and I use **AI tools** to work faster, be more productive, and keep up with the growing role of AI in the tech industry.
 
 ---
 
-## 🛠️ Tech Stack
+## 🖳 Tech Stack
 
 | Category | Tools |
 | :--- | :--- |
@@ -35,7 +35,7 @@ Hello! I'm passionate about learning technology and new innovations. I'm current
 
 ---
 
-## 📊 GitHub Stats
+## ၊၊||၊ GitHub Stats
 
 <div align="center">
 
