@@ -50,6 +50,5 @@ Hello! I'm passionate about learning technology and new innovations. I'm current
 
 <div align="center">
 
-✨ Thanks for stopping by! ✨
 
 </div>
