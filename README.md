@@ -29,7 +29,7 @@ Hello! I'm passionate about learning technology and new innovations. I'm current
 | 🌐 **Web Basics** | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) |
 | 🧩 **Web Frameworks** | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) |
 | 📱 **Mobile Apps** | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) |
-| 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff) |
+| 🗄️ **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff) |
 | 🎨 **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff) |
 | 🎮 **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white) |
 
